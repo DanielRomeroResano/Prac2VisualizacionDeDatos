@@ -1,7 +1,7 @@
 # Prac2VisualizacionDeDatos
 Estudio en R del dataset US Accidents para su presentación en flourish studio
 
-Dataset:
+Dataset (Too big to upload to github):
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 Presentación:
